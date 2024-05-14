@@ -1,0 +1,10 @@
+{
+	"Hauteur" : 15,
+	"Largeur" : 25,
+	"Probabilite" : 0.5,
+	"Depart" : 
+	{
+		"x" : 5,
+		"y" : 4
+	}
+}
